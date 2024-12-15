@@ -1,2 +1,2 @@
 # Biblioteca-de-Matrizes
-Biblioteca de Matrizes em Python.
+Biblioteca de Matrizes e Vetores em Python.
